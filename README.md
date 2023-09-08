@@ -1,2 +1,2 @@
 # repositorio
-Ejemplo de Repositorio Remoto
+Ejemplo de Repositorio Remoto Para Digitalers.
